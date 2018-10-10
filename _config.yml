@@ -9,7 +9,7 @@ description: "A website with test blog posts and pages using Jekyll" # used by s
 theme_settings:
   # Meta
   title: Test Blog 101 # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/Esmeralda_transparent.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
