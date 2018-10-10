@@ -3,7 +3,6 @@ layout: post
 title: Workshop post
 tags: [Workshop, A Tag, Test]
 excerpt_separator: <!--more this works like page break-->
-<!--need on every post file-->
 ---
 
 This workshop will provide an introduction to using the version control system Git from the command line. Attendees will learn the basics of creating a new Git repository, committing changes and pushing their work to GitHub, a free website for hosting code. For an example project, we will learn how to create a personal website using Jekyll. Attendees are strongly encouraged to bring their own computers but laptops will be on hand for those who need them. 
